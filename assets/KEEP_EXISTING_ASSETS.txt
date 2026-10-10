@@ -1,0 +1,4 @@
+Jangan mengganti folder assets milik repository. Pertahankan file asli:
+- assets/background.jpg
+- assets/logo.png
+Paket menggunakan kedua path tersebut secara langsung.
