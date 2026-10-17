@@ -1,0 +1,5 @@
+TARSUS / K-PEDIA — REVISI VISUAL & PERFORMA
+- Mode siang: kontras font dinaikkan (sangat jelas di latar terang).
+- Mode transparan: glassmorphism dioptimalkan dengan saturasi dan blur ganda.
+- Booting cinematic dan video login dipertahankan 100% utuh.
+- Animasi dioptimasi ke 60 FPS hardware accelerated.
